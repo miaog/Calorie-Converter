@@ -2,7 +2,7 @@
 Given a list of foods, find out how many calories they are and edit them if needed.
 
 ## List of food items and their calorie amounts:
-* Food item	- Calories per item
+### Food item	- Calories per item
 * Plate of Spaghetti - 600
 * Banana - 105
 * Pop Tart - 200
